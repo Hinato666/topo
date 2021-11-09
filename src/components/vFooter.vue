@@ -8,7 +8,6 @@
   <footer id="footer">
   	<div class="foot-txt">
       <a href="https://github.com/Mirror198829" target="_blank">
-      江苏南京 前端开发工程师 曹静
       </a>
     </div>
   	<div class="foot-txt">
